@@ -1,0 +1,9 @@
+.block-content{
+    display: block;
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    box-shadow: 1px 5px 5px 5px lightgrey
+}
